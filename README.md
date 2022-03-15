@@ -2,4 +2,4 @@
 
 ## Teste suas habilidades com o Jogo das Cores.
 
-A cada jogada  certa o nível de dificuldade aumenta!!!
+A cada jogada  certa o nível de dificuldade aumenta
